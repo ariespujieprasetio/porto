@@ -26,10 +26,10 @@ export default function ExperienceCardIcx({}: Props) {
       />
 
       <div className="px-0 md:px-10">
-        <h4 className="text-3xl font-light">Full stack web development</h4>
-        <p className="font-bold text-xl mt-1">
-          ICX (Indonesia Crowdfunding Exchange)
-        </p>
+        <h4 className="text-3xl font-light">
+          Software Engineer, RnD IT Specialist
+        </h4>
+        <p className="font-bold text-xl mt-1">GSI (Global Service Indonesia)</p>
         <div className="flex space-x-4 my-2">
           <Image
             className="h-10 w-10 rounded-full object-cover"
@@ -57,15 +57,26 @@ export default function ExperienceCardIcx({}: Props) {
             alt="react-native"
           />
         </div>
-        <p className="my-4">June 2023 - Present</p>
+        <p className="my-4">Dec 2022 - Present</p>
 
         <ul className="list-disc space-y-2 ml-5 text-md">
-          <li>Make a responsive front end with Mantine UI, Vite</li>
-          <li>Maintaining ICX native app IOS and Android</li>
-          <li>Make REST API with Nest.js</li>
-          <li>Make RDBMS using Mikro ORM, and PostgreSQL</li>
-          <li>Implement AGILE workflow using JIRA</li>
-          <li>Deploying both front end and back end side of a CMS web app</li>
+          <li>
+            Maintenance of web-based office attendance applications with Golang
+            & PHP
+          </li>
+          <li>
+            Technical Leader Project for accounting apps for PT United Tractors
+            Tbk with Go-lang & Laravel 9
+          </li>
+          <li>Make REST API with Golang</li>
+          <li>
+            Make a Dashboard Monitoring for Odoo Project YKBUT with React.js and
+            PostgreSQL
+          </li>
+          <li>Maintaining and bug fixing Daycare Web Projects with Laravel</li>
+          <li>
+            Create API Integration for YKBUT Odoo Dashboard Data using Nest.js
+          </li>
         </ul>
       </div>
     </article>

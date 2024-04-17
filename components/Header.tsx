@@ -25,25 +25,25 @@ export default function Header({}: Props) {
       >
         {/* Socials */}
         <SocialIcon
-          url="https://www.linkedin.com/in/veanus-nathan-897235254/"
+          url="https://www.linkedin.com/in/aries-pujie-prasetio-002912221/"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
         />
         <SocialIcon
-          url="https://www.instagram.com/veanusnathan/"
+          url="https://www.instagram.com/"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
         />
         <SocialIcon
-          url="https://github.com/veanusnathan"
+          url="https://github.com/arspjie"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
         />
         <SocialIcon
-          url="https://open.spotify.com/user/hd5nwvge9a9c8c66dycqhmdwz?si=463b056b02794efb&nd=1"
+          url="https://open.spotify.com/user/31ecokgyji6oqimvrxan5obk7i3e"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
@@ -67,18 +67,18 @@ export default function Header({}: Props) {
       >
         <SocialIcon
           network="whatsapp"
-          url="https://wa.me/+6282246704951"
+          url="https://wa.me/+6282135342145"
           fgColor="gray"
           bgColor="transparent"
         />
         <SocialIcon
           network="email"
-          url="mailto:veanusnathan.work@gmail.com"
+          url="mailto:arsiparies@gmail.com"
           fgColor="gray"
           bgColor="transparent"
         />
         <a
-          href="https://drive.google.com/file/d/1bUar4ybUn6UqQW0Tt5wjgm9poLorrARa/view?usp=sharing"
+          href="https://drive.google.com/file/d/1YFq2wKexWXQJDfcd0Goj6SGzoHwOMROO/view?usp=sharing"
           className="uppercase cursor-pointer text-sm border-2 border-gray-500 rounded-full px-2 hover:bg-gray-700 hidden md:inline-flex text-gray-400"
         >
           RESUME

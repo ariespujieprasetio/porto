@@ -18,20 +18,20 @@ export default function Icx({}: Props) {
         />
         <div className="space-y-10 px-8 md:px-10 max-w-6xl">
           <h4 className="text-4xl font-semibold text-center">
-            ICX (Equity Crowd Funding) App
+            Cermat (Accounting) App
           </h4>
           <p className="text-lg text-center md:text-left">
-            Equity crowfunding platform that has a lot of feature, like public
-            sale, secondary market, divident distribution, and many more.
+            Go-lang & Laravel 9 Web-based Application for Accounting for UMKM
+            assisted by PT United Tractors Tbk.
           </p>
         </div>
         <div className="space-x-60">
-          <a href="https://play.google.com/store/apps/details?id=id.icx&pli=1">
-            <button className="heroButton text-2xl">Google Play</button>
+          <a href="https://cermat.unitedtractors.com">
+            <button className="heroButton text-2xl">Live Application</button>
           </a>
-          <a href="https://apps.apple.com/id/app/icx-indonesia/id6448935038">
+          {/* <a href="https://apps.apple.com/id/app/icx-indonesia/id6448935038">
             <button className="heroButton text-2xl">App Store</button>
-          </a>
+          </a> */}
         </div>
       </div>
     </>
