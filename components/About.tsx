@@ -36,8 +36,8 @@ export default function About({}: Props) {
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">Here&apos;s my background</h4>
         <p className="text-sm">
-          Hi, i&apos;m Aries Pujie Prasetio age 24. I am an enthusiastic,
-          self-motivated, responsible and hard working person. With 2+ years in
+          Hi, i&apos;m Aries Pujie Prasetio. I am an enthusiastic,
+          self-motivated, responsible and hard working person. With 3+ years in
           IT Developer experience i am able to work well both in a team
           environment as well as using own initiative. I&apos;m a thriving Web
           Developer adept in all stages of advanced web development. Proficient
