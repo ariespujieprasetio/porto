@@ -4,12 +4,10 @@ import type { AppProps } from 'next/app';
 import React from 'react';
 
 function MyApp({ Component, pageProps }: AppProps) {
-  if (typeof Component === 'function') {
-    return <Component {...pageProps} />;
-  }
+  // Pastikan Component adalah tipe ReactElement
+  const ComponentElement = Component as React.ElementType;
 
-  // Handle cases where Component is not a function (if needed)
-  return null; // Or return default behavior
+  return <ComponentElement {...pageProps} />;
 }
 
 export default MyApp;
