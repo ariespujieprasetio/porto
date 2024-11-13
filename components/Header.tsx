@@ -37,7 +37,7 @@ export default function Header({}: Props) {
           target="_blank"
         />
         <SocialIcon
-          url="https://github.com/arspjie"
+          url="https://github.com/ariespujieprasetio/"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
@@ -78,7 +78,7 @@ export default function Header({}: Props) {
           bgColor="transparent"
         />
         <a
-          href="https://drive.google.com/file/d/1YFq2wKexWXQJDfcd0Goj6SGzoHwOMROO/view?usp=sharing"
+          href="https://drive.google.com/file/d/1AzVDllQjE2edQbyCDlRnzDyhfbacD7tp/view?usp=sharing"
           className="uppercase cursor-pointer text-sm border-2 border-gray-500 rounded-full px-2 hover:bg-gray-700 hidden md:inline-flex text-gray-400"
         >
           RESUME
