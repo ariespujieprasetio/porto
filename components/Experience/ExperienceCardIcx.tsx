@@ -27,9 +27,9 @@ export default function ExperienceCardIcx({}: Props) {
 
       <div className="px-0 md:px-10">
         <h4 className="text-3xl font-light">
-          Software Engineer, RnD IT Specialist
+          Software Engineer
         </h4>
-        <p className="font-bold text-xl mt-1">GSI (Global Service Indonesia)</p>
+        <p className="font-bold text-xl mt-1">PT Global Service Indonesia</p>
         <div className="flex space-x-4 my-2">
           <Image
             className="h-10 w-10 rounded-full object-cover"
